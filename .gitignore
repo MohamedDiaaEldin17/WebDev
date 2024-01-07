@@ -24,6 +24,8 @@ ehthumbs.db
 $RECYCLE.BIN/
 System Volume Information/
 
+# Windows user directories #
+###########################
 AppData/
 Cookies/
 Documents/
@@ -34,4 +36,3 @@ Recent/
 SendTo/
 Start Menu/
 Templates/
-
