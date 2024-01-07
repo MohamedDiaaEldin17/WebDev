@@ -1,0 +1,25 @@
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# Node.js #
+############
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Visual Studio Code #
+#####################
+.vscode/
+
+# Eclipse #
+############
+.eclipse/
+
+# Windows #
+############
+Desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+System Volume Information/
